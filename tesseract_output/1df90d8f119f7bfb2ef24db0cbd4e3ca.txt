@@ -1,0 +1,23 @@
+Use oe Dumeny VAR aBLES
+To deacribe hightok educahon level completed
+wee the fallewins dumonieo. [educ ~ hightol lael]
+E0-1 if edue < HS alegre ; = 0 ober wise
+E1-41 uf educ = HS degree; = 0 otherwise
+
+eLl-1 xf educ ~ Some college ; = © of hoarse
+
+63-1 4f educ « College degree, = 0 pth erate
+
+E4-4 4 thee « Some grad schoot.
+
+= 0 often.
+fra:  cateaorn: drop EO for |
+irirpoett hin. teapre drop EO for eaot of
+lyleurningg) = fy v EL + EZ RES + AA
+4 ofher vari ables
+
+B= a ie “pee inte to omitted
+
+log (Carn itp ) - A, +B, + offer variables i
+A , 4 El=
+Jog (eaen nap) = B, + over verudtic y 38
